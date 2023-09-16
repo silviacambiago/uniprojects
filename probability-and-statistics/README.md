@@ -27,6 +27,6 @@ Dopo avere analizzato opportunamente i dati, a quale conclusioni arrivate?
 
 Utilizzare i metodi appresi nel corso di Probabilità e Statica per l’Informatica per sostenere le vostre conclusioni.
 
-MODALITÀ DI CONSEGNA
+## MODALITÀ DI CONSEGNA
 
 Consegnare – tramite piattaforma Moodle - un breve rapporto tecnico (massimo due facciate di foglio A4) in formato Word che riassuma le ipotesi, i risultati dell’analisi statistica dei dati con le relative conclusioni.
