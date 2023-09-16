@@ -1,4 +1,4 @@
-#PROGETTO con R
+# PROGETTO con R
 
 Siete il reponsabile della sezione ciclismo di Decathlon Milano. Il vostro superiore (responsabile regionale) vi ha chiesto un’analisi delle vendite. In particolare ha chiesto la vostra opinione sull’opportunità o meno di ampliare l’area assistenza e riparazioni. 
 Il vostro superiore crede che il servizio di assistenza oltre a migliorare il servizio alla clientela influisce positivamente sulle vendite delle componenti.
