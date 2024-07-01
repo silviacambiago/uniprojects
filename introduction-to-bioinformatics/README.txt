@@ -1,4 +1,4 @@
-Componenti del gruppo:
+Componenti del gruppo BioCose:
 
 - Bernasconi Giorgio Luigi Maria - mat. 885948
 - Cambiago Sivia - mat. 879382
