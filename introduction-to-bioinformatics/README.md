@@ -19,6 +19,8 @@ Variazioni di G1:
 * Posizione 8: sostituzione T -> G 
 * Posizione 11: inserimento di C 
 * Posizione 16: cancellazione di C
+
+
 Variazioni di G2:
 * Posizione 5: sostituzione T -> C 
 * Posizione 8: sostituzione T -> G
