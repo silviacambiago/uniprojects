@@ -4,9 +4,13 @@ Si richiede di prendere in input il file covid-sequences.fasta contenente genomi
 Il primo, con identificatore NC_045512.2, è il genoma di riferimento sequenziato nell’autunno 2019. Usare MAFFT (https://www.ebi.ac.uk/Tools/msa/mafft/) per allinearli e utilizzare la matrice di allineamento multiplo ottenuta per trovare in seguito tutte le variazioni puntuali dei genomi rispetto al riferimento. Non considerare gli eventuali gaps iniziali/finali.
 
 Esempio per tre genomi G_REF (reference) G1 e G2:
-G_REF AAGCTGATTGCACGC-TCG
-G1 --GCAGAGTG-ACGCCT--
-G2 --GCCGAGTGCACGCCT--
+&nbsp;
+G_REF: AAGCTGATTGCACGC-TCG
+&nbsp;
+G1: --GCAGAGTG-ACGCCT--
+&nbsp;
+G2: --GCCGAGTGCACGCCT--
+&nbsp;
 
 Variazioni di G1:
 * Posizione 5: sostituzione T -> A 
