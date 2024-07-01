@@ -11,14 +11,14 @@ G2 --GCCGAGTGCACGCCT--
 Variazioni di G1:
 * Posizione 5: sostituzione T -> A 
 * Posizione 8: sostituzione T -> G 
-• Posizione 11: inserimento di C 
-• Posizione 16: cancellazione di C
+* Posizione 11: inserimento di C 
+* Posizione 16: cancellazione di C
 Variazioni di G2:
-• Posizione 5: sostituzione T -> C 
-• Posizione 8: sostituzione T -> G
-• Posizione 16: cancellazione di C
+* Posizione 5: sostituzione T -> C 
+* Posizione 8: sostituzione T -> G
+* Posizione 16: cancellazione di C
   
 Implementare uno script Python (non un notebook) che produca un report di tutte le variazioni puntuali rilevate rispetto al reference, ciascuna riferita alla posizione nel reference in cui occorre. Per ognuna di esse specificare il tipo (sostituzione, inserimento nel reference, cancellazione nel reference), le basi coinvolte (o la base inserita/cancellata) e il numero di genomi che presentano la variazione rispetto al reference. Ignorare le sostituzioni che coinvolgono la base unknown N (gli inserimenti/cancellazioni che coinvolgono N sono invece da considerare). Il report deve anche riportare:
-• il genoma con più variazioni e quello con meno variazioni rispetto al reference.
-• le posizioni del reference rispetto a cui tutti gli altri genomi variano
-• le posizioni del reference rispetto a cui tutti gli altri genomi variano allo stesso modo
+* Il genoma con più variazioni e quello con meno variazioni rispetto al reference;
+* Le posizioni del reference rispetto a cui tutti gli altri genomi variano;
+* Le posizioni del reference rispetto a cui tutti gli altri genomi variano allo stesso modo.
