@@ -1,0 +1,7268 @@
+[
+  {
+    "DrugBank ID": "DB00023",
+    "Name": "Asparaginase Escherichia coli",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00059",
+    "Name": "Pegaspargase",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00070",
+    "Name": "Hyaluronidase (ovine)",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00080",
+    "Name": "Daptomycin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00080",
+    "Name": "Daptomycin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00080",
+    "Name": "Daptomycin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P01009",
+    "UniProt Name": "Alpha-1-antitrypsin"
+  },
+  {
+    "DrugBank ID": "DB00080",
+    "Name": "Daptomycin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P01130",
+    "UniProt Name": "Low-density lipoprotein receptor"
+  },
+  {
+    "DrugBank ID": "DB00080",
+    "Name": "Daptomycin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00080",
+    "Name": "Daptomycin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02790",
+    "UniProt Name": "Hemopexin"
+  },
+  {
+    "DrugBank ID": "DB00083",
+    "Name": "Botulinum toxin type A",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00104",
+    "Name": "Octreotide",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00107",
+    "Name": "Oxytocin",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P01178",
+    "UniProt Name": "Oxytocin-neurophysin 1"
+  },
+  {
+    "DrugBank ID": "DB00126",
+    "Name": "Ascorbic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00132",
+    "Name": "alpha-Linolenic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "O15540",
+    "UniProt Name": "Fatty acid-binding protein, brain"
+  },
+  {
+    "DrugBank ID": "DB00136",
+    "Name": "Calcitriol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02774",
+    "UniProt Name": "Vitamin D-binding protein"
+  },
+  {
+    "DrugBank ID": "DB00137",
+    "Name": "Lutein",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00152",
+    "Name": "Thiamine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00153",
+    "Name": "Ergocalciferol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02774",
+    "UniProt Name": "Vitamin D-binding protein"
+  },
+  {
+    "DrugBank ID": "DB00154",
+    "Name": "Dihomo-gamma-linolenic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "O15540",
+    "UniProt Name": "Fatty acid-binding protein, brain"
+  },
+  {
+    "DrugBank ID": "DB00159",
+    "Name": "Icosapent",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00162",
+    "Name": "Vitamin A",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00162",
+    "Name": "Vitamin A",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P12271",
+    "UniProt Name": "Retinaldehyde-binding protein 1"
+  },
+  {
+    "DrugBank ID": "DB00162",
+    "Name": "Vitamin A",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P10745",
+    "UniProt Name": "Retinol-binding protein 3"
+  },
+  {
+    "DrugBank ID": "DB00162",
+    "Name": "Vitamin A",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P09455",
+    "UniProt Name": "Retinol-binding protein 1"
+  },
+  {
+    "DrugBank ID": "DB00162",
+    "Name": "Vitamin A",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P82980",
+    "UniProt Name": "Retinol-binding protein 5"
+  },
+  {
+    "DrugBank ID": "DB00162",
+    "Name": "Vitamin A",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q96R05",
+    "UniProt Name": "Retinoid-binding protein 7"
+  },
+  {
+    "DrugBank ID": "DB00162",
+    "Name": "Vitamin A",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02753",
+    "UniProt Name": "Retinol-binding protein 4"
+  },
+  {
+    "DrugBank ID": "DB00162",
+    "Name": "Vitamin A",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P50120",
+    "UniProt Name": "Retinol-binding protein 2"
+  },
+  {
+    "DrugBank ID": "DB00163",
+    "Name": "Vitamin E",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "O76054",
+    "UniProt Name": "SEC14-like protein 2"
+  },
+  {
+    "DrugBank ID": "DB00163",
+    "Name": "Vitamin E",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q9UDX4",
+    "UniProt Name": "SEC14-like protein 3"
+  },
+  {
+    "DrugBank ID": "DB00163",
+    "Name": "Vitamin E",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P55058",
+    "UniProt Name": "Phospholipid transfer protein"
+  },
+  {
+    "DrugBank ID": "DB00163",
+    "Name": "Vitamin E",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P49638",
+    "UniProt Name": "Alpha-tocopherol transfer protein"
+  },
+  {
+    "DrugBank ID": "DB00165",
+    "Name": "Pyridoxine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00169",
+    "Name": "Cholecalciferol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02774",
+    "UniProt Name": "Vitamin D-binding protein"
+  },
+  {
+    "DrugBank ID": "DB00180",
+    "Name": "Flunisolide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00200",
+    "Name": "Hydroxocobalamin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P20062",
+    "UniProt Name": "Transcobalamin-2"
+  },
+  {
+    "DrugBank ID": "DB00214",
+    "Name": "Torasemide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00220",
+    "Name": "Nelfinavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00220",
+    "Name": "Nelfinavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00227",
+    "Name": "Lovastatin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00228",
+    "Name": "Enflurane",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00237",
+    "Name": "Butabarbital",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00238",
+    "Name": "Nevirapine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00240",
+    "Name": "Alclometasone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00243",
+    "Name": "Ranolazine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00245",
+    "Name": "Benzatropine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00246",
+    "Name": "Ziprasidone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00246",
+    "Name": "Ziprasidone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00252",
+    "Name": "Phenytoin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00252",
+    "Name": "Phenytoin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00253",
+    "Name": "Medrysone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00254",
+    "Name": "Doxycycline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00255",
+    "Name": "Diethylstilbestrol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB00264",
+    "Name": "Metoprolol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00266",
+    "Name": "Dicoumarol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00273",
+    "Name": "Topiramate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00274",
+    "Name": "Cefmetazole",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00278",
+    "Name": "Argatroban",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00278",
+    "Name": "Argatroban",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00278",
+    "Name": "Argatroban",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00279",
+    "Name": "Liothyronine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB00279",
+    "Name": "Liothyronine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00279",
+    "Name": "Liothyronine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00280",
+    "Name": "Disopyramide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00286",
+    "Name": "Conjugated estrogens",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00286",
+    "Name": "Conjugated estrogens",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00286",
+    "Name": "Conjugated estrogens",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00289",
+    "Name": "Atomoxetine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00289",
+    "Name": "Atomoxetine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00289",
+    "Name": "Atomoxetine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00289",
+    "Name": "Atomoxetine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P12314",
+    "UniProt Name": "High affinity immunoglobulin gamma Fc receptor I"
+  },
+  {
+    "DrugBank ID": "DB00292",
+    "Name": "Etomidate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P11166",
+    "UniProt Name": "Solute carrier family 2, facilitated glucose transporter member 1"
+  },
+  {
+    "DrugBank ID": "DB00294",
+    "Name": "Etonogestrel",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00294",
+    "Name": "Etonogestrel",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00295",
+    "Name": "Morphine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00296",
+    "Name": "Ropivacaine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00303",
+    "Name": "Ertapenem",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00304",
+    "Name": "Desogestrel",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00304",
+    "Name": "Desogestrel",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00310",
+    "Name": "Chlorthalidone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00313",
+    "Name": "Valproic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00316",
+    "Name": "Acetaminophen",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00317",
+    "Name": "Gefitinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00317",
+    "Name": "Gefitinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00321",
+    "Name": "Amitriptyline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00321",
+    "Name": "Amitriptyline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00322",
+    "Name": "Floxuridine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00324",
+    "Name": "Fluorometholone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00327",
+    "Name": "Hydromorphone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00328",
+    "Name": "Indomethacin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00332",
+    "Name": "Ipratropium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00332",
+    "Name": "Ipratropium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00332",
+    "Name": "Ipratropium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00333",
+    "Name": "Methadone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00333",
+    "Name": "Methadone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00334",
+    "Name": "Olanzapine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00334",
+    "Name": "Olanzapine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00335",
+    "Name": "Atenolol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00342",
+    "Name": "Terfenadine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00342",
+    "Name": "Terfenadine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00342",
+    "Name": "Terfenadine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00343",
+    "Name": "Diltiazem",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00343",
+    "Name": "Diltiazem",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00346",
+    "Name": "Alfuzosin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00346",
+    "Name": "Alfuzosin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00349",
+    "Name": "Clobazam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00349",
+    "Name": "Clobazam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00363",
+    "Name": "Clozapine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00363",
+    "Name": "Clozapine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00366",
+    "Name": "Doxylamine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00376",
+    "Name": "Trihexyphenidyl",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00391",
+    "Name": "Sulpiride",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00394",
+    "Name": "Beclomethasone dipropionate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00404",
+    "Name": "Alprazolam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00404",
+    "Name": "Alprazolam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00404",
+    "Name": "Alprazolam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00409",
+    "Name": "Remoxipride",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00409",
+    "Name": "Remoxipride",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00412",
+    "Name": "Rosiglitazone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00414",
+    "Name": "Acetohexamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00415",
+    "Name": "Ampicillin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00421",
+    "Name": "Spironolactone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00421",
+    "Name": "Spironolactone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00421",
+    "Name": "Spironolactone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00427",
+    "Name": "Triprolidine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00430",
+    "Name": "Cefpiramide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00432",
+    "Name": "Trifluridine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00434",
+    "Name": "Cyproheptadine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00438",
+    "Name": "Ceftazidime",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00443",
+    "Name": "Betamethasone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00443",
+    "Name": "Betamethasone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00451",
+    "Name": "Levothyroxine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB00451",
+    "Name": "Levothyroxine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00451",
+    "Name": "Levothyroxine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00454",
+    "Name": "Meperidine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00454",
+    "Name": "Meperidine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00456",
+    "Name": "Cefalotin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00457",
+    "Name": "Prazosin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00458",
+    "Name": "Imipramine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00458",
+    "Name": "Imipramine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00459",
+    "Name": "Acitretin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00461",
+    "Name": "Nabumetone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00472",
+    "Name": "Fluoxetine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00472",
+    "Name": "Fluoxetine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00476",
+    "Name": "Duloxetine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00476",
+    "Name": "Duloxetine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00476",
+    "Name": "Duloxetine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00477",
+    "Name": "Chlorpromazine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00481",
+    "Name": "Raloxifene",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00481",
+    "Name": "Raloxifene",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00485",
+    "Name": "Dicloxacillin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00490",
+    "Name": "Buspirone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00490",
+    "Name": "Buspirone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00495",
+    "Name": "Zidovudine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00497",
+    "Name": "Oxycodone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00497",
+    "Name": "Oxycodone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00497",
+    "Name": "Oxycodone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00500",
+    "Name": "Tolmetin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00501",
+    "Name": "Cimetidine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00503",
+    "Name": "Ritonavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00503",
+    "Name": "Ritonavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00512",
+    "Name": "Vancomycin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00512",
+    "Name": "Vancomycin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00512",
+    "Name": "Vancomycin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00512",
+    "Name": "Vancomycin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P70174",
+    "UniProt Name": "Histamine H1 receptor"
+  },
+  {
+    "DrugBank ID": "DB00515",
+    "Name": "Cisplatin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00523",
+    "Name": "Alitretinoin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P29373",
+    "UniProt Name": "Cellular retinoic acid-binding protein 2"
+  },
+  {
+    "DrugBank ID": "DB00523",
+    "Name": "Alitretinoin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P29762",
+    "UniProt Name": "Cellular retinoic acid-binding protein 1"
+  },
+  {
+    "DrugBank ID": "DB00526",
+    "Name": "Oxaliplatin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00530",
+    "Name": "Erlotinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00530",
+    "Name": "Erlotinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00532",
+    "Name": "Mephenytoin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00537",
+    "Name": "Ciprofloxacin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00540",
+    "Name": "Nortriptyline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00540",
+    "Name": "Nortriptyline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00543",
+    "Name": "Amoxapine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00544",
+    "Name": "Fluorouracil",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00544",
+    "Name": "Fluorouracil",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00554",
+    "Name": "Piroxicam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00555",
+    "Name": "Lamotrigine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00557",
+    "Name": "Hydroxyzine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00563",
+    "Name": "Methotrexate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00567",
+    "Name": "Cephalexin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00568",
+    "Name": "Cinnarizine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00571",
+    "Name": "Propranolol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00571",
+    "Name": "Propranolol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00572",
+    "Name": "Atropine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00573",
+    "Name": "Fenoprofen",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00575",
+    "Name": "Clonidine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00576",
+    "Name": "Sulfamethizole",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00584",
+    "Name": "Enalapril",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00586",
+    "Name": "Diclofenac",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB00586",
+    "Name": "Diclofenac",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00588",
+    "Name": "Fluticasone propionate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q9Y6L6",
+    "UniProt Name": "Solute carrier organic anion transporter family member 1B1"
+  },
+  {
+    "DrugBank ID": "DB00588",
+    "Name": "Fluticasone propionate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00591",
+    "Name": "Fluocinolone acetonide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00595",
+    "Name": "Oxytetracycline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00596",
+    "Name": "Ulobetasol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00598",
+    "Name": "Labetalol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00598",
+    "Name": "Labetalol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00598",
+    "Name": "Labetalol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00601",
+    "Name": "Linezolid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00603",
+    "Name": "Medroxyprogesterone acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00605",
+    "Name": "Sulindac",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00607",
+    "Name": "Nafcillin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00608",
+    "Name": "Chloroquine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00608",
+    "Name": "Chloroquine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00608",
+    "Name": "Chloroquine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00619",
+    "Name": "Imatinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00619",
+    "Name": "Imatinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00620",
+    "Name": "Triamcinolone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00620",
+    "Name": "Triamcinolone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00624",
+    "Name": "Testosterone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00624",
+    "Name": "Testosterone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00625",
+    "Name": "Efavirenz",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00627",
+    "Name": "Niacin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00635",
+    "Name": "Prednisone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00635",
+    "Name": "Prednisone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00636",
+    "Name": "Clofibrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00640",
+    "Name": "Adenosine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00642",
+    "Name": "Pemetrexed",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00648",
+    "Name": "Mitotane",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00648",
+    "Name": "Mitotane",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00648",
+    "Name": "Mitotane",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00649",
+    "Name": "Stavudine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00655",
+    "Name": "Estrone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00661",
+    "Name": "Verapamil",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00661",
+    "Name": "Verapamil",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00663",
+    "Name": "Flumethasone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00675",
+    "Name": "Tamoxifen",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00675",
+    "Name": "Tamoxifen",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00677",
+    "Name": "Isoflurophate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00678",
+    "Name": "Losartan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00682",
+    "Name": "Warfarin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00682",
+    "Name": "Warfarin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00683",
+    "Name": "Midazolam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00683",
+    "Name": "Midazolam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00687",
+    "Name": "Fludrocortisone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00687",
+    "Name": "Fludrocortisone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00695",
+    "Name": "Furosemide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00695",
+    "Name": "Furosemide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00706",
+    "Name": "Tamsulosin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00709",
+    "Name": "Lamivudine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00712",
+    "Name": "Flurbiprofen",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00714",
+    "Name": "Apomorphine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00717",
+    "Name": "Norethisterone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00717",
+    "Name": "Norethisterone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00731",
+    "Name": "Nateglinide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00731",
+    "Name": "Nateglinide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00734",
+    "Name": "Risperidone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00734",
+    "Name": "Risperidone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00737",
+    "Name": "Meclizine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00741",
+    "Name": "Hydrocortisone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00741",
+    "Name": "Hydrocortisone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00743",
+    "Name": "Gadobenic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00744",
+    "Name": "Zileuton",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00748",
+    "Name": "Carbinoxamine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00748",
+    "Name": "Carbinoxamine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00749",
+    "Name": "Etodolac",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00753",
+    "Name": "Isoflurane",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00754",
+    "Name": "Ethotoin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00755",
+    "Name": "Tretinoin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00758",
+    "Name": "Clopidogrel",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00759",
+    "Name": "Tetracycline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00762",
+    "Name": "Irinotecan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00768",
+    "Name": "Olopatadine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00770",
+    "Name": "Alprostadil",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00774",
+    "Name": "Hydroflumethiazide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00776",
+    "Name": "Oxcarbazepine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00783",
+    "Name": "Estradiol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00783",
+    "Name": "Estradiol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00783",
+    "Name": "Estradiol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P12104",
+    "UniProt Name": "Fatty acid-binding protein, intestinal"
+  },
+  {
+    "DrugBank ID": "DB00784",
+    "Name": "Mefenamic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00787",
+    "Name": "Acyclovir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00788",
+    "Name": "Naproxen",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00792",
+    "Name": "Tripelennamine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00795",
+    "Name": "Sulfasalazine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00802",
+    "Name": "Alfentanil",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00802",
+    "Name": "Alfentanil",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00808",
+    "Name": "Indapamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00808",
+    "Name": "Indapamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00808",
+    "Name": "Indapamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00813",
+    "Name": "Fentanyl",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00813",
+    "Name": "Fentanyl",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00813",
+    "Name": "Fentanyl",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00814",
+    "Name": "Meloxicam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00815",
+    "Name": "Sodium lauryl sulfate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00818",
+    "Name": "Propofol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00829",
+    "Name": "Diazepam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00842",
+    "Name": "Oxazepam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00845",
+    "Name": "Clofazimine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00846",
+    "Name": "Flurandrenolide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00847",
+    "Name": "Cysteamine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00850",
+    "Name": "Perphenazine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00852",
+    "Name": "Pseudoephedrine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00853",
+    "Name": "Temozolomide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00853",
+    "Name": "Temozolomide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00857",
+    "Name": "Terbinafine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00857",
+    "Name": "Terbinafine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00857",
+    "Name": "Terbinafine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00858",
+    "Name": "Drostanolone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00860",
+    "Name": "Prednisolone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00860",
+    "Name": "Prednisolone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00861",
+    "Name": "Diflunisal",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB00861",
+    "Name": "Diflunisal",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00864",
+    "Name": "Tacrolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00864",
+    "Name": "Tacrolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00870",
+    "Name": "Suprofen",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00877",
+    "Name": "Sirolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00877",
+    "Name": "Sirolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00877",
+    "Name": "Sirolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02647",
+    "UniProt Name": "Apolipoprotein A-I"
+  },
+  {
+    "DrugBank ID": "DB00877",
+    "Name": "Sirolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02652",
+    "UniProt Name": "Apolipoprotein A-II"
+  },
+  {
+    "DrugBank ID": "DB00877",
+    "Name": "Sirolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P06727",
+    "UniProt Name": "Apolipoprotein A-IV"
+  },
+  {
+    "DrugBank ID": "DB00877",
+    "Name": "Sirolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04114",
+    "UniProt Name": "Apolipoprotein B-100"
+  },
+  {
+    "DrugBank ID": "DB00877",
+    "Name": "Sirolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02655",
+    "UniProt Name": "Apolipoprotein C-II"
+  },
+  {
+    "DrugBank ID": "DB00877",
+    "Name": "Sirolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02656",
+    "UniProt Name": "Apolipoprotein C-III"
+  },
+  {
+    "DrugBank ID": "DB00877",
+    "Name": "Sirolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05090",
+    "UniProt Name": "Apolipoprotein D"
+  },
+  {
+    "DrugBank ID": "DB00877",
+    "Name": "Sirolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02649",
+    "UniProt Name": "Apolipoprotein E"
+  },
+  {
+    "DrugBank ID": "DB00877",
+    "Name": "Sirolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "O14791",
+    "UniProt Name": "Apolipoprotein L1"
+  },
+  {
+    "DrugBank ID": "DB00877",
+    "Name": "Sirolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "O95445",
+    "UniProt Name": "Apolipoprotein M"
+  },
+  {
+    "DrugBank ID": "DB00877",
+    "Name": "Sirolimus",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08519",
+    "UniProt Name": "Apolipoprotein(a)"
+  },
+  {
+    "DrugBank ID": "DB00878",
+    "Name": "Chlorhexidine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00879",
+    "Name": "Emtricitabine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00881",
+    "Name": "Quinapril",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00893",
+    "Name": "Iron Dextran",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02787",
+    "UniProt Name": "Serotransferrin"
+  },
+  {
+    "DrugBank ID": "DB00896",
+    "Name": "Rimexolone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00900",
+    "Name": "Didanosine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00903",
+    "Name": "Etacrynic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00907",
+    "Name": "Cocaine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00907",
+    "Name": "Cocaine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00908",
+    "Name": "Quinidine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00908",
+    "Name": "Quinidine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00912",
+    "Name": "Repaglinide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00924",
+    "Name": "Cyclobenzaprine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00926",
+    "Name": "Etretinate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P29762",
+    "UniProt Name": "Cellular retinoic acid-binding protein 1"
+  },
+  {
+    "DrugBank ID": "DB00931",
+    "Name": "Metacycline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00934",
+    "Name": "Maprotiline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00936",
+    "Name": "Salicylic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00938",
+    "Name": "Salmeterol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00938",
+    "Name": "Salmeterol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00938",
+    "Name": "Salmeterol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00939",
+    "Name": "Meclofenamic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00943",
+    "Name": "Zalcitabine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00946",
+    "Name": "Phenprocoumon",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00946",
+    "Name": "Phenprocoumon",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00950",
+    "Name": "Fexofenadine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00950",
+    "Name": "Fexofenadine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00950",
+    "Name": "Fexofenadine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00951",
+    "Name": "Isoniazid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00957",
+    "Name": "Norgestimate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00957",
+    "Name": "Norgestimate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00959",
+    "Name": "Methylprednisolone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00960",
+    "Name": "Pindolol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00960",
+    "Name": "Pindolol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00968",
+    "Name": "Methyldopa",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00977",
+    "Name": "Ethinylestradiol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00977",
+    "Name": "Ethinylestradiol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB00982",
+    "Name": "Isotretinoin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00983",
+    "Name": "Formoterol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00986",
+    "Name": "Glycopyrronium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00986",
+    "Name": "Glycopyrronium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB00986",
+    "Name": "Glycopyrronium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB00993",
+    "Name": "Azathioprine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00995",
+    "Name": "Auranofin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00997",
+    "Name": "Doxorubicin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB00999",
+    "Name": "Hydrochlorothiazide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01005",
+    "Name": "Hydroxyurea",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01006",
+    "Name": "Letrozole",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01009",
+    "Name": "Ketoprofen",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01013",
+    "Name": "Clobetasol propionate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01013",
+    "Name": "Clobetasol propionate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01015",
+    "Name": "Sulfamethoxazole",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01016",
+    "Name": "Glyburide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01024",
+    "Name": "Mycophenolic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01026",
+    "Name": "Ketoconazole",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01026",
+    "Name": "Ketoconazole",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01029",
+    "Name": "Irbesartan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01029",
+    "Name": "Irbesartan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01029",
+    "Name": "Irbesartan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB01032",
+    "Name": "Probenecid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01039",
+    "Name": "Fenofibrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01042",
+    "Name": "Melphalan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01042",
+    "Name": "Melphalan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01044",
+    "Name": "Gatifloxacin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01045",
+    "Name": "Rifampicin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01045",
+    "Name": "Rifampicin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01045",
+    "Name": "Rifampicin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB01047",
+    "Name": "Fluocinonide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01050",
+    "Name": "Ibuprofen",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01053",
+    "Name": "Benzylpenicillin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01056",
+    "Name": "Tocainide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01057",
+    "Name": "Echothiophate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01058",
+    "Name": "Praziquantel",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01060",
+    "Name": "Amoxicillin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01062",
+    "Name": "Oxybutynin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01062",
+    "Name": "Oxybutynin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01064",
+    "Name": "Isoprenaline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01067",
+    "Name": "Glipizide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01068",
+    "Name": "Clonazepam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01069",
+    "Name": "Promethazine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01072",
+    "Name": "Atazanavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01072",
+    "Name": "Atazanavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01072",
+    "Name": "Atazanavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB01076",
+    "Name": "Atorvastatin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01083",
+    "Name": "Orlistat",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01086",
+    "Name": "Benzocaine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01086",
+    "Name": "Benzocaine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01086",
+    "Name": "Benzocaine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB01088",
+    "Name": "Iloprost",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01093",
+    "Name": "Dimethyl sulfoxide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB01098",
+    "Name": "Rosuvastatin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01101",
+    "Name": "Capecitabine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01104",
+    "Name": "Sertraline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01110",
+    "Name": "Miconazole",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01115",
+    "Name": "Nifedipine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01115",
+    "Name": "Nifedipine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01115",
+    "Name": "Nifedipine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB01118",
+    "Name": "Amiodarone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01119",
+    "Name": "Diazoxide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01120",
+    "Name": "Gliclazide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01124",
+    "Name": "Tolbutamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01126",
+    "Name": "Dutasteride",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01126",
+    "Name": "Dutasteride",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01132",
+    "Name": "Pioglitazone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01133",
+    "Name": "Tiludronic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01136",
+    "Name": "Carvedilol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01137",
+    "Name": "Levofloxacin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01138",
+    "Name": "Sulfinpyrazone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P12104",
+    "UniProt Name": "Fatty acid-binding protein, intestinal"
+  },
+  {
+    "DrugBank ID": "DB01142",
+    "Name": "Doxepin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01142",
+    "Name": "Doxepin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01147",
+    "Name": "Cloxacillin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01151",
+    "Name": "Desipramine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01156",
+    "Name": "Bupropion",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01159",
+    "Name": "Halothane",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01167",
+    "Name": "Itraconazole",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01169",
+    "Name": "Arsenic trioxide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01173",
+    "Name": "Orphenadrine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01176",
+    "Name": "Cyclizine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01183",
+    "Name": "Naloxone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01185",
+    "Name": "Fluoxymesterone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01189",
+    "Name": "Desflurane",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01190",
+    "Name": "Clindamycin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01195",
+    "Name": "Flecainide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01195",
+    "Name": "Flecainide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB01195",
+    "Name": "Flecainide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01197",
+    "Name": "Captopril",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01203",
+    "Name": "Nadolol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01203",
+    "Name": "Nadolol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB01212",
+    "Name": "Ceftriaxone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01219",
+    "Name": "Dantrolene",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01222",
+    "Name": "Budesonide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01222",
+    "Name": "Budesonide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01232",
+    "Name": "Saquinavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01232",
+    "Name": "Saquinavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01233",
+    "Name": "Metoclopramide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01234",
+    "Name": "Dexamethasone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01235",
+    "Name": "Levodopa",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01236",
+    "Name": "Sevoflurane",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01238",
+    "Name": "Aripiprazole",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01241",
+    "Name": "Gemfibrozil",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01242",
+    "Name": "Clomipramine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01264",
+    "Name": "Darunavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01264",
+    "Name": "Darunavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01275",
+    "Name": "Hydralazine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01276",
+    "Name": "Exenatide",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01277",
+    "Name": "Mecasermin",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P17936",
+    "UniProt Name": "Insulin-like growth factor-binding protein 3"
+  },
+  {
+    "DrugBank ID": "DB01277",
+    "Name": "Mecasermin",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P35858",
+    "UniProt Name": "Insulin-like growth factor-binding protein complex acid labile subunit"
+  },
+  {
+    "DrugBank ID": "DB01277",
+    "Name": "Mecasermin",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P08833",
+    "UniProt Name": "Insulin-like growth factor-binding protein 1"
+  },
+  {
+    "DrugBank ID": "DB01277",
+    "Name": "Mecasermin",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P18065",
+    "UniProt Name": "Insulin-like growth factor-binding protein 2"
+  },
+  {
+    "DrugBank ID": "DB01277",
+    "Name": "Mecasermin",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P22692",
+    "UniProt Name": "Insulin-like growth factor-binding protein 4"
+  },
+  {
+    "DrugBank ID": "DB01277",
+    "Name": "Mecasermin",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P24593",
+    "UniProt Name": "Insulin-like growth factor-binding protein 5"
+  },
+  {
+    "DrugBank ID": "DB01277",
+    "Name": "Mecasermin",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P24592",
+    "UniProt Name": "Insulin-like growth factor-binding protein 6"
+  },
+  {
+    "DrugBank ID": "DB01280",
+    "Name": "Nelarabine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q99808",
+    "UniProt Name": "Equilibrative nucleoside transporter 1"
+  },
+  {
+    "DrugBank ID": "DB01294",
+    "Name": "Bismuth subsalicylate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01294",
+    "Name": "Bismuth subsalicylate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02787",
+    "UniProt Name": "Serotransferrin"
+  },
+  {
+    "DrugBank ID": "DB01307",
+    "Name": "Insulin detemir",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01320",
+    "Name": "Fosphenytoin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01320",
+    "Name": "Fosphenytoin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01324",
+    "Name": "Polythiazide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01327",
+    "Name": "Cefazolin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01328",
+    "Name": "Cefonicid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01329",
+    "Name": "Cefoperazone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01330",
+    "Name": "Cefotetan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01359",
+    "Name": "Penbutolol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01364",
+    "Name": "Ephedrine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01370",
+    "Name": "Aluminium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01380",
+    "Name": "Cortisone acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01380",
+    "Name": "Cortisone acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01384",
+    "Name": "Paramethasone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01394",
+    "Name": "Colchicine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01396",
+    "Name": "Digitoxin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01397",
+    "Name": "Magnesium salicylate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01406",
+    "Name": "Danazol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01410",
+    "Name": "Ciclesonide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01418",
+    "Name": "Acenocoumarol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01418",
+    "Name": "Acenocoumarol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01420",
+    "Name": "Testosterone propionate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01420",
+    "Name": "Testosterone propionate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01426",
+    "Name": "Ajmaline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01429",
+    "Name": "Aprindine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01436",
+    "Name": "Alfacalcidol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02774",
+    "UniProt Name": "Vitamin D-binding protein"
+  },
+  {
+    "DrugBank ID": "DB01436",
+    "Name": "Alfacalcidol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "V9H1D9",
+    "UniProt Name": "Alpha globin"
+  },
+  {
+    "DrugBank ID": "DB01452",
+    "Name": "Diamorphine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01581",
+    "Name": "Sulfamerazine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01582",
+    "Name": "Sulfamethazine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01583",
+    "Name": "Liotrix",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB01583",
+    "Name": "Liotrix",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01583",
+    "Name": "Liotrix",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01587",
+    "Name": "Ketazolam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01591",
+    "Name": "Solifenacin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01591",
+    "Name": "Solifenacin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB01601",
+    "Name": "Lopinavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01601",
+    "Name": "Lopinavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01611",
+    "Name": "Hydroxychloroquine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01611",
+    "Name": "Hydroxychloroquine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01611",
+    "Name": "Hydroxychloroquine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB01614",
+    "Name": "Acepromazine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01619",
+    "Name": "Phenindamine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01621",
+    "Name": "Pipotiazine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01622",
+    "Name": "Thioproperazine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01623",
+    "Name": "Thiothixene",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01627",
+    "Name": "Lincomycin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01629",
+    "Name": "5-fluorouridine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB01645",
+    "Name": "Genistein",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB01685",
+    "Name": "Topiroxostat",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB01685",
+    "Name": "Topiroxostat",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB01751",
+    "Name": "Tetraiodothyroacetic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB01838",
+    "Name": "6,4'-Dihydroxy-3-Methyl-3',5'-Dibromoflavone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB01914",
+    "Name": "D-glucose",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB02074",
+    "Name": "Butenoic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P07148",
+    "UniProt Name": "Fatty acid-binding protein, liver"
+  },
+  {
+    "DrugBank ID": "DB02080",
+    "Name": "1-{2-[2-(2-Methoxyethoxy)Ethoxy]Ethoxy}-4-(1,1,3,3-Tetramethylbutyl)Benzene",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P49638",
+    "UniProt Name": "Alpha-tocopherol transfer protein"
+  },
+  {
+    "DrugBank ID": "DB02153",
+    "Name": "3-sulfino-L-alanine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P15090",
+    "UniProt Name": "Fatty acid-binding protein, adipocyte"
+  },
+  {
+    "DrugBank ID": "DB02179",
+    "Name": "O-Trifluoromethylphenyl Anthranilic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB02216",
+    "Name": "S-Methylcysteine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P07148",
+    "UniProt Name": "Fatty acid-binding protein, liver"
+  },
+  {
+    "DrugBank ID": "DB02266",
+    "Name": "Flufenamic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB02342",
+    "Name": "2-Methoxyestradiol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB02417",
+    "Name": "2,4,6-Tribromophenol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB02659",
+    "Name": "Cholic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P07148",
+    "UniProt Name": "Fatty acid-binding protein, liver"
+  },
+  {
+    "DrugBank ID": "DB02698",
+    "Name": "N-(M-Trifluoromethylphenyl) Phenoxazine-4,6-Dicarboxylic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB02709",
+    "Name": "Resveratrol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB02709",
+    "Name": "Resveratrol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB02776",
+    "Name": "1-Hexadecanosulfonic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P15090",
+    "UniProt Name": "Fatty acid-binding protein, adipocyte"
+  },
+  {
+    "DrugBank ID": "DB02901",
+    "Name": "Stanolone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB03009",
+    "Name": "2-{[2-Oxo-2-(1-piperidinyl)ethyl]sulfanyl}-6-(trifluoromethyl)-4(1H)-pyrimidinone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P15090",
+    "UniProt Name": "Fatty acid-binding protein, adipocyte"
+  },
+  {
+    "DrugBank ID": "DB03017",
+    "Name": "Lauric acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB03167",
+    "Name": "Pentabromophenol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB03193",
+    "Name": "Stearic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05413",
+    "UniProt Name": "Fatty acid-binding protein, heart"
+  },
+  {
+    "DrugBank ID": "DB03193",
+    "Name": "Stearic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB03239",
+    "Name": "3',5'-Dinitro-N-Acetyl-L-Thyronine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB03346",
+    "Name": "3,3',5,5'-tetrachlorobiphenyl-4,4'-diol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB03585",
+    "Name": "Oxyphenbutazone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB03600",
+    "Name": "Capric acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB03682",
+    "Name": "Dibenzofuran-4,6-Dicarboxylic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB03766",
+    "Name": "Propanoic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P15090",
+    "UniProt Name": "Fatty acid-binding protein, adipocyte"
+  },
+  {
+    "DrugBank ID": "DB03796",
+    "Name": "Palmitic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB03796",
+    "Name": "Palmitic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P15090",
+    "UniProt Name": "Fatty acid-binding protein, adipocyte"
+  },
+  {
+    "DrugBank ID": "DB03796",
+    "Name": "Palmitic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q01469",
+    "UniProt Name": "Fatty acid-binding protein, epidermal"
+  },
+  {
+    "DrugBank ID": "DB03796",
+    "Name": "Palmitic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05413",
+    "UniProt Name": "Fatty acid-binding protein, heart"
+  },
+  {
+    "DrugBank ID": "DB03796",
+    "Name": "Palmitic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P12104",
+    "UniProt Name": "Fatty acid-binding protein, intestinal"
+  },
+  {
+    "DrugBank ID": "DB03851",
+    "Name": "Carbazole Butanoic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P15090",
+    "UniProt Name": "Fatty acid-binding protein, adipocyte"
+  },
+  {
+    "DrugBank ID": "DB03882",
+    "Name": "5-Alpha-Androstane-3-Beta,17beta-Diol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB03917",
+    "Name": "N-Ethylretinamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02753",
+    "UniProt Name": "Retinol-binding protein 4"
+  },
+  {
+    "DrugBank ID": "DB03926",
+    "Name": "5alpha-androstane-3beta,17alpha-diol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB04216",
+    "Name": "Quercetin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB04224",
+    "Name": "Oleic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05413",
+    "UniProt Name": "Fatty acid-binding protein, heart"
+  },
+  {
+    "DrugBank ID": "DB04224",
+    "Name": "Oleic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P07148",
+    "UniProt Name": "Fatty acid-binding protein, liver"
+  },
+  {
+    "DrugBank ID": "DB04224",
+    "Name": "Oleic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB04224",
+    "Name": "Oleic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02774",
+    "UniProt Name": "Vitamin D-binding protein"
+  },
+  {
+    "DrugBank ID": "DB04224",
+    "Name": "Oleic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "O15540",
+    "UniProt Name": "Fatty acid-binding protein, brain"
+  },
+  {
+    "DrugBank ID": "DB04224",
+    "Name": "Oleic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P15090",
+    "UniProt Name": "Fatty acid-binding protein, adipocyte"
+  },
+  {
+    "DrugBank ID": "DB04437",
+    "Name": "Cysteine-Methylene-Carbamoyl-1,10-Phenanthroline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P15090",
+    "UniProt Name": "Fatty acid-binding protein, adipocyte"
+  },
+  {
+    "DrugBank ID": "DB04474",
+    "Name": "8-anilinonaphthalene-1-sulfonic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P15090",
+    "UniProt Name": "Fatty acid-binding protein, adipocyte"
+  },
+  {
+    "DrugBank ID": "DB04474",
+    "Name": "8-anilinonaphthalene-1-sulfonic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB04539",
+    "Name": "Glyphosate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB04557",
+    "Name": "Arachidonic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P12104",
+    "UniProt Name": "Fatty acid-binding protein, intestinal"
+  },
+  {
+    "DrugBank ID": "DB04557",
+    "Name": "Arachidonic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB04557",
+    "Name": "Arachidonic Acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P15090",
+    "UniProt Name": "Fatty acid-binding protein, adipocyte"
+  },
+  {
+    "DrugBank ID": "DB04574",
+    "Name": "Estrone sulfate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB04574",
+    "Name": "Estrone sulfate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB04674",
+    "Name": "2-HYDROXY-3,5-DIIODOBENZOIC ACID",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB04690",
+    "Name": "Camptothecin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB04711",
+    "Name": "Iodipamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB04756",
+    "Name": "2-[(3,5-Dichloro-4-trioxidanylphenyl)amino]benzoic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB04816",
+    "Name": "Dantron",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB04821",
+    "Name": "Nomifensine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB04828",
+    "Name": "Zomepirac",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB04847",
+    "Name": "Roxadustat",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB04854",
+    "Name": "Febuxostat",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB04855",
+    "Name": "Dronedarone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB04861",
+    "Name": "Nebivolol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB04911",
+    "Name": "Oritavancin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB04942",
+    "Name": "Tamibarotene",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P29762",
+    "UniProt Name": "Cellular retinoic acid-binding protein 1"
+  },
+  {
+    "DrugBank ID": "DB04951",
+    "Name": "Pirfenidone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB05076",
+    "Name": "Fenretinide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02753",
+    "UniProt Name": "Retinol-binding protein 4"
+  },
+  {
+    "DrugBank ID": "DB05134",
+    "Name": "Tanespimycin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB05235",
+    "Name": "NRP409",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB05235",
+    "Name": "NRP409",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB05239",
+    "Name": "Cobimetinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB05260",
+    "Name": "Gallium nitrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02787",
+    "UniProt Name": "Serotransferrin"
+  },
+  {
+    "DrugBank ID": "DB05294",
+    "Name": "Vandetanib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB05294",
+    "Name": "Vandetanib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB05352",
+    "Name": "Fx-1006A",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB05382",
+    "Name": "Iodine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB05382",
+    "Name": "Iodine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P01266",
+    "UniProt Name": "Thyroglobulin"
+  },
+  {
+    "DrugBank ID": "DB05521",
+    "Name": "Telaprevir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB05521",
+    "Name": "Telaprevir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB05688",
+    "Name": "CRx-119",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB05812",
+    "Name": "Abiraterone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB05812",
+    "Name": "Abiraterone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB06119",
+    "Name": "Cenobamate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06150",
+    "Name": "Sulfadimethoxine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06151",
+    "Name": "Acetylcysteine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06201",
+    "Name": "Rufinamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06209",
+    "Name": "Prasugrel",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06215",
+    "Name": "Ferumoxytol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02787",
+    "UniProt Name": "Serotransferrin"
+  },
+  {
+    "DrugBank ID": "DB06216",
+    "Name": "Asenapine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06216",
+    "Name": "Asenapine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB06216",
+    "Name": "Asenapine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB06234",
+    "Name": "Maribavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06234",
+    "Name": "Maribavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB06237",
+    "Name": "Avanafil",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06237",
+    "Name": "Avanafil",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB06282",
+    "Name": "Levocetirizine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06290",
+    "Name": "Simeprevir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06412",
+    "Name": "Oxymetholone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06412",
+    "Name": "Oxymetholone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB06480",
+    "Name": "Prucalopride",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06636",
+    "Name": "Isavuconazonium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06655",
+    "Name": "Liraglutide",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06695",
+    "Name": "Dabigatran etexilate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06705",
+    "Name": "Gadofosveset trisodium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06710",
+    "Name": "Methyltestosterone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06710",
+    "Name": "Methyltestosterone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB06716",
+    "Name": "Fospropofol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06755",
+    "Name": "Beta carotene",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P98155",
+    "UniProt Name": "Very low-density lipoprotein receptor"
+  },
+  {
+    "DrugBank ID": "DB06755",
+    "Name": "Beta carotene",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P09455",
+    "UniProt Name": "Retinol-binding protein 1"
+  },
+  {
+    "DrugBank ID": "DB06755",
+    "Name": "Beta carotene",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P50120",
+    "UniProt Name": "Retinol-binding protein 2"
+  },
+  {
+    "DrugBank ID": "DB06755",
+    "Name": "Beta carotene",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P10745",
+    "UniProt Name": "Retinol-binding protein 3"
+  },
+  {
+    "DrugBank ID": "DB06755",
+    "Name": "Beta carotene",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02753",
+    "UniProt Name": "Retinol-binding protein 4"
+  },
+  {
+    "DrugBank ID": "DB06755",
+    "Name": "Beta carotene",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P82980",
+    "UniProt Name": "Retinol-binding protein 5"
+  },
+  {
+    "DrugBank ID": "DB06772",
+    "Name": "Cabazitaxel",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06772",
+    "Name": "Cabazitaxel",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P01130",
+    "UniProt Name": "Low-density lipoprotein receptor"
+  },
+  {
+    "DrugBank ID": "DB06772",
+    "Name": "Cabazitaxel",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P98155",
+    "UniProt Name": "Very low-density lipoprotein receptor"
+  },
+  {
+    "DrugBank ID": "DB06772",
+    "Name": "Cabazitaxel",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q8IV16",
+    "UniProt Name": "Glycosylphosphatidylinositol-anchored high density lipoprotein-binding protein 1"
+  },
+  {
+    "DrugBank ID": "DB06784",
+    "Name": "Gallium citrate Ga-67",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02787",
+    "UniProt Name": "Serotransferrin"
+  },
+  {
+    "DrugBank ID": "DB06784",
+    "Name": "Gallium citrate Ga-67",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02788",
+    "UniProt Name": "Lactotransferrin"
+  },
+  {
+    "DrugBank ID": "DB06784",
+    "Name": "Gallium citrate Ga-67",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02792",
+    "UniProt Name": "Ferritin light chain"
+  },
+  {
+    "DrugBank ID": "DB06784",
+    "Name": "Gallium citrate Ga-67",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02794",
+    "UniProt Name": "Ferritin heavy chain"
+  },
+  {
+    "DrugBank ID": "DB06796",
+    "Name": "Mangafodipir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P01023",
+    "UniProt Name": "Alpha-2-macroglobulin"
+  },
+  {
+    "DrugBank ID": "DB06796",
+    "Name": "Mangafodipir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06813",
+    "Name": "Pralatrexate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB06885",
+    "Name": "3-[({(1E)-[2-(trifluoromethyl)phenyl]methylidene}amino)oxy]propanoic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB06907",
+    "Name": "2-(2,6-DICHLOROPHENYL)-1,3-BENZOXAZOLE-6-CARBOXYLIC ACID",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB06935",
+    "Name": "2',6'-DIFLUOROBIPHENYL-4-CARBOXYLIC ACID",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB06985",
+    "Name": "2-[({4-[2-(trifluoromethyl)phenyl]piperidin-1-yl}carbonyl)amino]benzoic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02753",
+    "UniProt Name": "Retinol-binding protein 4"
+  },
+  {
+    "DrugBank ID": "DB07047",
+    "Name": "2',4'-DICHLORO-4-HYDROXY-1,1'-BIPHENYL-3-CARBOXYLIC ACID",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB07176",
+    "Name": "1-Naphthylamine-5-sulfonic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB07201",
+    "Name": "(2S)-3-[(9H-fluoren-9-ylideneamino)oxy]-2-methylpropanoic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB07240",
+    "Name": "3-[(9H-fluoren-9-ylideneamino)oxy]propanoic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB07282",
+    "Name": "3-({[(1Z)-(2-methoxyphenyl)methylidene]amino}oxy)propanoic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB07283",
+    "Name": "9-benzyl-2,3,4,9-tetrahydro-1H-carbazole-8-carboxylic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P15090",
+    "UniProt Name": "Fatty acid-binding protein, adipocyte"
+  },
+  {
+    "DrugBank ID": "DB07402",
+    "Name": "Azapropazone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB07517",
+    "Name": "3-CARBOXY-4-METHYL-5-PROPYL-2-FURANPROPIONIC",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB07565",
+    "Name": "Chloramphenicol succinate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB07693",
+    "Name": "N-(3,5-dibromo-4-hydroxyphenyl)-2,6-dimethylbenzamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB07694",
+    "Name": "2,5-dichloro-N-(3,5-dibromo-4-hydroxyphenyl)benzamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB07695",
+    "Name": "N-(3,5-dibromo-4-hydroxyphenyl)-4-hydroxy-3,5-dimethylbenzamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB07753",
+    "Name": "3',5'-DIFLUOROBIPHENYL-4-CARBOXYLIC ACID",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB07775",
+    "Name": "3',5'-DIBROMO-2',4,4',6'-TETRAHYDROXY AURONE",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB07945",
+    "Name": "5-(3-carbamoylbenzyl)-5,6,7,8,9,10-hexahydrocyclohepta[b]indole-4-carboxylic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P15090",
+    "UniProt Name": "Fatty acid-binding protein, adipocyte"
+  },
+  {
+    "DrugBank ID": "DB07962",
+    "Name": "METHYL N-[(2',4'-DIFLUORO-4-HYDROXY-5-IODOBIPHENYL-3-YL)CARBONYL]-BETA-ALANINATE",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB07963",
+    "Name": "N-[(2',4'-DIFLUORO-4-HYDROXY-5-IODOBIPHENYL-3-YL)CARBONYL]-BETA-ALANINE",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB07992",
+    "Name": "Indoxyl sulfate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08100",
+    "Name": "2,6-dimethyl-4-[(E)-2-phenylethenyl]phenol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB08101",
+    "Name": "2,6-dibromo-4-[(E)-2-phenylethenyl]phenol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB08102",
+    "Name": "3,5-dibromobiphenyl-4-ol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB08103",
+    "Name": "2,6-dibromo-4-phenoxyphenol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB08104",
+    "Name": "N-(3,5-dibromo-4-hydroxyphenyl)benzamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB08127",
+    "Name": "1,3,3-trimethyl-2-[(1E,3E)-3-methylpenta-1,3-dien-1-yl]cyclohexene",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P29373",
+    "UniProt Name": "Cellular retinoic acid-binding protein 2"
+  },
+  {
+    "DrugBank ID": "DB08205",
+    "Name": "4-(1,3-BENZOXAZOL-2-YL)-2,6-DIMETHYLPHENOL",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB08206",
+    "Name": "4-(1,3-BENZOXAZOL-2-YL)-2,6-DIBROMOPHENOL",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB08207",
+    "Name": "2-(3,5-DIMETHYLPHENYL)-1,3-BENZOXAZOLE",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB08231",
+    "Name": "Myristic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08231",
+    "Name": "Myristic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P12104",
+    "UniProt Name": "Fatty acid-binding protein, intestinal"
+  },
+  {
+    "DrugBank ID": "DB08231",
+    "Name": "Myristic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "O95445",
+    "UniProt Name": "Apolipoprotein M"
+  },
+  {
+    "DrugBank ID": "DB08455",
+    "Name": "Ro 12-7310",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P29373",
+    "UniProt Name": "Cellular retinoic acid-binding protein 2"
+  },
+  {
+    "DrugBank ID": "DB08467",
+    "Name": "6-(2,3,4,5,6,7-HEXAHYDRO-2,4,4-TRIMETHYL-1-METYLENEINDEN-2-YL)-3-METHYLHEXA-2,4-DIENOIC ACID",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P29373",
+    "UniProt Name": "Cellular retinoic acid-binding protein 2"
+  },
+  {
+    "DrugBank ID": "DB08496",
+    "Name": "(R)-warfarin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08607",
+    "Name": "(5R)-5-(4-{[(2R)-6-HYDROXY-2,5,7,8-TETRAMETHYL-3,4-DIHYDRO-2H-CHROMEN-2-YL]METHOXY}BENZYL)-1,3-THIAZOLIDINE-2,4-DIONE",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P15090",
+    "UniProt Name": "Fatty acid-binding protein, adipocyte"
+  },
+  {
+    "DrugBank ID": "DB08735",
+    "Name": "R,S-Warfarin alcohol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08736",
+    "Name": "S,R-Warfarin alcohol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08804",
+    "Name": "Nandrolone decanoate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB08814",
+    "Name": "Triflusal",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08816",
+    "Name": "Ticagrelor",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08820",
+    "Name": "Ivacaftor",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08820",
+    "Name": "Ivacaftor",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB08822",
+    "Name": "Azilsartan medoxomil",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08828",
+    "Name": "Vismodegib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08828",
+    "Name": "Vismodegib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB08860",
+    "Name": "Pitavastatin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08860",
+    "Name": "Pitavastatin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB08864",
+    "Name": "Rilpivirine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08865",
+    "Name": "Crizotinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08865",
+    "Name": "Crizotinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB08865",
+    "Name": "Crizotinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB08867",
+    "Name": "Ulipristal",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08867",
+    "Name": "Ulipristal",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB08877",
+    "Name": "Ruxolitinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08881",
+    "Name": "Vemurafenib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08881",
+    "Name": "Vemurafenib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB08893",
+    "Name": "Mirabegron",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08893",
+    "Name": "Mirabegron",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB08895",
+    "Name": "Tofacitinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08899",
+    "Name": "Enzalutamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08903",
+    "Name": "Bedaquiline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08903",
+    "Name": "Bedaquiline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB08906",
+    "Name": "Fluticasone furoate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB08906",
+    "Name": "Fluticasone furoate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08906",
+    "Name": "Fluticasone furoate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB08907",
+    "Name": "Canagliflozin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB08912",
+    "Name": "Dabrafenib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08930",
+    "Name": "Dolutegravir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08930",
+    "Name": "Dolutegravir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB08930",
+    "Name": "Dolutegravir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB08931",
+    "Name": "Riociguat",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08931",
+    "Name": "Riociguat",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB08932",
+    "Name": "Macitentan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08932",
+    "Name": "Macitentan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB08932",
+    "Name": "Macitentan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB08936",
+    "Name": "Chlorcyclizine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB08984",
+    "Name": "Etofenamate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB08995",
+    "Name": "Diosmin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09053",
+    "Name": "Ibrutinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09053",
+    "Name": "Ibrutinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB09053",
+    "Name": "Ibrutinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB09069",
+    "Name": "Trimetazidine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09070",
+    "Name": "Tibolone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09073",
+    "Name": "Palbociclib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09074",
+    "Name": "Olaparib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09074",
+    "Name": "Olaparib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB09076",
+    "Name": "Umeclidinium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09076",
+    "Name": "Umeclidinium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB09079",
+    "Name": "Nintedanib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09087",
+    "Name": "Potassium alum",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09093",
+    "Name": "Chlortetracycline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09100",
+    "Name": "Thyroid, porcine",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09100",
+    "Name": "Thyroid, porcine",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02766",
+    "UniProt Name": "Transthyretin"
+  },
+  {
+    "DrugBank ID": "DB09100",
+    "Name": "Thyroid, porcine",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB09124",
+    "Name": "Medrogestone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09124",
+    "Name": "Medrogestone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB09124",
+    "Name": "Medrogestone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB09128",
+    "Name": "Brexpiprazole",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09128",
+    "Name": "Brexpiprazole",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P01023",
+    "UniProt Name": "Alpha-2-macroglobulin"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P00450",
+    "UniProt Name": "Ceruloplasmin"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "O00244",
+    "UniProt Name": "Copper transport protein ATOX1"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "O14618",
+    "UniProt Name": "Copper chaperone for superoxide dismutase"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q14061",
+    "UniProt Name": "Cytochrome c oxidase copper chaperone"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q9BQS7",
+    "UniProt Name": "Hephaestin"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P12259",
+    "UniProt Name": "Coagulation factor V"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P00451",
+    "UniProt Name": "Coagulation factor VIII"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q14872",
+    "UniProt Name": "Metal regulatory transcription factor 1"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P0DM35",
+    "UniProt Name": "Metallothionein 1H-like protein 1"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04731",
+    "UniProt Name": "Metallothionein-1A"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P07438",
+    "UniProt Name": "Metallothionein-1B"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04732",
+    "UniProt Name": "Metallothionein-1E"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04733",
+    "UniProt Name": "Metallothionein-1F"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P13640",
+    "UniProt Name": "Metallothionein-1G"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P80294",
+    "UniProt Name": "Metallothionein-1H"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q93083",
+    "UniProt Name": "Metallothionein-1L"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q8N339",
+    "UniProt Name": "Metallothionein-1M"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P80297",
+    "UniProt Name": "Metallothionein-1X"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02795",
+    "UniProt Name": "Metallothionein-2"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P25713",
+    "UniProt Name": "Metallothionein-3"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P47944",
+    "UniProt Name": "Metallothionein-4"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "A1L3X4",
+    "UniProt Name": "Putative metallothionein MT1DP"
+  },
+  {
+    "DrugBank ID": "DB09130",
+    "Name": "Copper",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q9Y4I5",
+    "UniProt Name": "Tesmin"
+  },
+  {
+    "DrugBank ID": "DB09139",
+    "Name": "Technetium Tc-99m oxidronate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09140",
+    "Name": "Oxygen",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P68871",
+    "UniProt Name": "Hemoglobin subunit beta"
+  },
+  {
+    "DrugBank ID": "DB09140",
+    "Name": "Oxygen",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P69905",
+    "UniProt Name": "Hemoglobin subunit alpha"
+  },
+  {
+    "DrugBank ID": "DB09160",
+    "Name": "Technetium Tc-99m tetrofosmin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08183",
+    "UniProt Name": "Multidrug resistance protein 1"
+  },
+  {
+    "DrugBank ID": "DB09195",
+    "Name": "Lorpiprazole",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09204",
+    "Name": "Arotinolol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09204",
+    "Name": "Arotinolol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB09213",
+    "Name": "Dexibuprofen",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09223",
+    "Name": "Blonanserin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09229",
+    "Name": "Aranidipine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09229",
+    "Name": "Aranidipine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB09236",
+    "Name": "Lacidipine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09236",
+    "Name": "Lacidipine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB09237",
+    "Name": "Levamlodipine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09241",
+    "Name": "Methylene blue",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09256",
+    "Name": "Tegafur",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB09262",
+    "Name": "Imidafenacin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09262",
+    "Name": "Imidafenacin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB09262",
+    "Name": "Imidafenacin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB09270",
+    "Name": "Ubidecarenone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P01130",
+    "UniProt Name": "Low-density lipoprotein receptor"
+  },
+  {
+    "DrugBank ID": "DB09270",
+    "Name": "Ubidecarenone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P98155",
+    "UniProt Name": "Very low-density lipoprotein receptor"
+  },
+  {
+    "DrugBank ID": "DB09274",
+    "Name": "Artesunate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09280",
+    "Name": "Lumacaftor",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09299",
+    "Name": "Tenofovir alafenamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09317",
+    "Name": "Synthetic Conjugated Estrogens, A",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB09318",
+    "Name": "Synthetic Conjugated Estrogens, B",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB09329",
+    "Name": "Antihemophilic factor (recombinant), PEGylated",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P04275",
+    "UniProt Name": "von Willebrand factor"
+  },
+  {
+    "DrugBank ID": "DB09333",
+    "Name": "Iopodic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09347",
+    "Name": "Acetrizoic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09348",
+    "Name": "Propiolactone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09381",
+    "Name": "Esterified estrogens",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB09383",
+    "Name": "Meprednisone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09418",
+    "Name": "Potassium perchlorate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09526",
+    "Name": "Hydroquinone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09555",
+    "Name": "Dexchlorpheniramine maleate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "O15245",
+    "UniProt Name": "Solute carrier family 22 member 1"
+  },
+  {
+    "DrugBank ID": "DB09555",
+    "Name": "Dexchlorpheniramine maleate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "O15244",
+    "UniProt Name": "Solute carrier family 22 member 2"
+  },
+  {
+    "DrugBank ID": "DB09564",
+    "Name": "Insulin degludec",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB09568",
+    "Name": "Omega-3-carboxylic acids",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q9UKL6",
+    "UniProt Name": "Phosphatidylcholine transfer protein"
+  },
+  {
+    "DrugBank ID": "DB09568",
+    "Name": "Omega-3-carboxylic acids",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P30086",
+    "UniProt Name": "Phosphatidylethanolamine-binding protein 1"
+  },
+  {
+    "DrugBank ID": "DB11093",
+    "Name": "Calcium citrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05937",
+    "UniProt Name": "Calbindin"
+  },
+  {
+    "DrugBank ID": "DB11093",
+    "Name": "Calcium citrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P29377",
+    "UniProt Name": "Protein S100-G"
+  },
+  {
+    "DrugBank ID": "DB11093",
+    "Name": "Calcium citrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11100",
+    "Name": "Allantoin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB11130",
+    "Name": "Opium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11130",
+    "Name": "Opium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P61769",
+    "UniProt Name": "Beta-2-microglobulin"
+  },
+  {
+    "DrugBank ID": "DB11134",
+    "Name": "Cupric oxide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11134",
+    "Name": "Cupric oxide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P00450",
+    "UniProt Name": "Ceruloplasmin"
+  },
+  {
+    "DrugBank ID": "DB11136",
+    "Name": "Chromium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02787",
+    "UniProt Name": "Serotransferrin"
+  },
+  {
+    "DrugBank ID": "DB11148",
+    "Name": "Butamben",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB11148",
+    "Name": "Butamben",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11182",
+    "Name": "Rose bengal",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11182",
+    "Name": "Rose bengal",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02788",
+    "UniProt Name": "Lactotransferrin"
+  },
+  {
+    "DrugBank ID": "DB11182",
+    "Name": "Rose bengal",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02787",
+    "UniProt Name": "Serotransferrin"
+  },
+  {
+    "DrugBank ID": "DB11217",
+    "Name": "Arbutin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11221",
+    "Name": "Dioxybenzone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02773",
+    "UniProt Name": "Alpha-fetoprotein"
+  },
+  {
+    "DrugBank ID": "DB11251",
+    "Name": "Tocopherol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P98155",
+    "UniProt Name": "Very low-density lipoprotein receptor"
+  },
+  {
+    "DrugBank ID": "DB11251",
+    "Name": "Tocopherol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P01130",
+    "UniProt Name": "Low-density lipoprotein receptor"
+  },
+  {
+    "DrugBank ID": "DB11348",
+    "Name": "Calcium Phosphate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05937",
+    "UniProt Name": "Calbindin"
+  },
+  {
+    "DrugBank ID": "DB11348",
+    "Name": "Calcium Phosphate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P29377",
+    "UniProt Name": "Protein S100-G"
+  },
+  {
+    "DrugBank ID": "DB11348",
+    "Name": "Calcium Phosphate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11397",
+    "Name": "Dichlorvos",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11575",
+    "Name": "Grazoprevir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11575",
+    "Name": "Grazoprevir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB11590",
+    "Name": "Thimerosal",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11637",
+    "Name": "Delamanid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11637",
+    "Name": "Delamanid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB11641",
+    "Name": "Vinflunine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11641",
+    "Name": "Vinflunine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB11641",
+    "Name": "Vinflunine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB11642",
+    "Name": "Pitolisant",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11642",
+    "Name": "Pitolisant",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB11677",
+    "Name": "Triheptanoin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11689",
+    "Name": "Selumetinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11689",
+    "Name": "Selumetinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB11689",
+    "Name": "Selumetinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB11703",
+    "Name": "Acalabrutinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11703",
+    "Name": "Acalabrutinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB11703",
+    "Name": "Acalabrutinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB11718",
+    "Name": "Encorafenib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11739",
+    "Name": "Vonoprazan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11739",
+    "Name": "Vonoprazan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB11751",
+    "Name": "Cabotegravir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11753",
+    "Name": "Rifamycin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11757",
+    "Name": "Istradefylline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11757",
+    "Name": "Istradefylline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB11757",
+    "Name": "Istradefylline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB11793",
+    "Name": "Niraparib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11796",
+    "Name": "Fostemsavir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11800",
+    "Name": "Tivozanib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11820",
+    "Name": "Nifurtimox",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11827",
+    "Name": "Ertugliflozin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11828",
+    "Name": "Neratinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11828",
+    "Name": "Neratinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB11828",
+    "Name": "Neratinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB11853",
+    "Name": "Relugolix",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11853",
+    "Name": "Relugolix",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB11855",
+    "Name": "Revefenacin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11886",
+    "Name": "Infigratinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02647",
+    "UniProt Name": "Apolipoprotein A-I"
+  },
+  {
+    "DrugBank ID": "DB11886",
+    "Name": "Infigratinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02652",
+    "UniProt Name": "Apolipoprotein A-II"
+  },
+  {
+    "DrugBank ID": "DB11886",
+    "Name": "Infigratinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P06727",
+    "UniProt Name": "Apolipoprotein A-IV"
+  },
+  {
+    "DrugBank ID": "DB11886",
+    "Name": "Infigratinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04114",
+    "UniProt Name": "Apolipoprotein B-100"
+  },
+  {
+    "DrugBank ID": "DB11886",
+    "Name": "Infigratinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02655",
+    "UniProt Name": "Apolipoprotein C-II"
+  },
+  {
+    "DrugBank ID": "DB11886",
+    "Name": "Infigratinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02656",
+    "UniProt Name": "Apolipoprotein C-III"
+  },
+  {
+    "DrugBank ID": "DB11886",
+    "Name": "Infigratinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05090",
+    "UniProt Name": "Apolipoprotein D"
+  },
+  {
+    "DrugBank ID": "DB11886",
+    "Name": "Infigratinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02649",
+    "UniProt Name": "Apolipoprotein E"
+  },
+  {
+    "DrugBank ID": "DB11886",
+    "Name": "Infigratinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "O14791",
+    "UniProt Name": "Apolipoprotein L1"
+  },
+  {
+    "DrugBank ID": "DB11886",
+    "Name": "Infigratinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "O95445",
+    "UniProt Name": "Apolipoprotein M"
+  },
+  {
+    "DrugBank ID": "DB11886",
+    "Name": "Infigratinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08519",
+    "UniProt Name": "Apolipoprotein(a)"
+  },
+  {
+    "DrugBank ID": "DB11901",
+    "Name": "Apalutamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11943",
+    "Name": "Delafloxacin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11963",
+    "Name": "Dacomitinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11967",
+    "Name": "Binimetinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11978",
+    "Name": "Glasdegib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB11978",
+    "Name": "Glasdegib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB11978",
+    "Name": "Glasdegib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB12001",
+    "Name": "Abemaciclib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12001",
+    "Name": "Abemaciclib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB12001",
+    "Name": "Abemaciclib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB12005",
+    "Name": "Nirogacestat",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12005",
+    "Name": "Nirogacestat",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB12005",
+    "Name": "Nirogacestat",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB12095",
+    "Name": "Telotristat ethyl",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q9UNQ0",
+    "UniProt Name": "ATP-binding cassette sub-family G member 2"
+  },
+  {
+    "DrugBank ID": "DB12141",
+    "Name": "Gilteritinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12147",
+    "Name": "Erdafitinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB12147",
+    "Name": "Erdafitinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB12235",
+    "Name": "Estetrol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12235",
+    "Name": "Estetrol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB12243",
+    "Name": "Edaravone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12255",
+    "Name": "Vadadustat",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12404",
+    "Name": "Remimazolam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12425",
+    "Name": "Liothyronine I-131",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB12455",
+    "Name": "Omadacycline",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12466",
+    "Name": "Favipiravir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12466",
+    "Name": "Favipiravir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB12466",
+    "Name": "Favipiravir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB12471",
+    "Name": "Ibrexafungerp",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12483",
+    "Name": "Copanlisib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12674",
+    "Name": "Lurbinectedin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12674",
+    "Name": "Lurbinectedin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB12836",
+    "Name": "Grapiprant",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12874",
+    "Name": "Quizartinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12941",
+    "Name": "Darolutamide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12978",
+    "Name": "Pexidartinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB12978",
+    "Name": "Pexidartinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB13014",
+    "Name": "Hypericin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13310",
+    "Name": "Ormeloxifene",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13396",
+    "Name": "Neocitrullamon",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05543",
+    "UniProt Name": "Thyroxine-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB13421",
+    "Name": "Edoxudine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13514",
+    "Name": "Pranoprofen",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13751",
+    "Name": "Glycyrrhizic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P17516",
+    "UniProt Name": "Aldo-keto reductase family 1 member C4"
+  },
+  {
+    "DrugBank ID": "DB13751",
+    "Name": "Glycyrrhizic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P42330",
+    "UniProt Name": "Aldo-keto reductase family 1 member C3"
+  },
+  {
+    "DrugBank ID": "DB13751",
+    "Name": "Glycyrrhizic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P52895",
+    "UniProt Name": "Aldo-keto reductase family 1 member C2"
+  },
+  {
+    "DrugBank ID": "DB13751",
+    "Name": "Glycyrrhizic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13867",
+    "Name": "Fluticasone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB13867",
+    "Name": "Fluticasone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08183",
+    "UniProt Name": "Multidrug resistance protein 1"
+  },
+  {
+    "DrugBank ID": "DB13867",
+    "Name": "Fluticasone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "Q9Y6L6",
+    "UniProt Name": "Solute carrier organic anion transporter family member 1B1"
+  },
+  {
+    "DrugBank ID": "DB13874",
+    "Name": "Enasidenib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13909",
+    "Name": "Bismuth subgallate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13928",
+    "Name": "Semaglutide",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13943",
+    "Name": "Testosterone cypionate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13943",
+    "Name": "Testosterone cypionate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB13944",
+    "Name": "Testosterone enanthate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13944",
+    "Name": "Testosterone enanthate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB13946",
+    "Name": "Testosterone undecanoate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13946",
+    "Name": "Testosterone undecanoate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB13949",
+    "Name": "Ferric cation",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02787",
+    "UniProt Name": "Serotransferrin"
+  },
+  {
+    "DrugBank ID": "DB13949",
+    "Name": "Ferric cation",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05106",
+    "UniProt Name": "Integrin beta-3"
+  },
+  {
+    "DrugBank ID": "DB13949",
+    "Name": "Ferric cation",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P27797",
+    "UniProt Name": "Calreticulin"
+  },
+  {
+    "DrugBank ID": "DB13951",
+    "Name": "Stanolone acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB13952",
+    "Name": "Estradiol acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB13952",
+    "Name": "Estradiol acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13952",
+    "Name": "Estradiol acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P12104",
+    "UniProt Name": "Fatty acid-binding protein, intestinal"
+  },
+  {
+    "DrugBank ID": "DB13953",
+    "Name": "Estradiol benzoate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB13953",
+    "Name": "Estradiol benzoate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13953",
+    "Name": "Estradiol benzoate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P12104",
+    "UniProt Name": "Fatty acid-binding protein, intestinal"
+  },
+  {
+    "DrugBank ID": "DB13954",
+    "Name": "Estradiol cypionate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB13954",
+    "Name": "Estradiol cypionate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13954",
+    "Name": "Estradiol cypionate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P12104",
+    "UniProt Name": "Fatty acid-binding protein, intestinal"
+  },
+  {
+    "DrugBank ID": "DB13955",
+    "Name": "Estradiol dienanthate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB13955",
+    "Name": "Estradiol dienanthate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13955",
+    "Name": "Estradiol dienanthate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P12104",
+    "UniProt Name": "Fatty acid-binding protein, intestinal"
+  },
+  {
+    "DrugBank ID": "DB13956",
+    "Name": "Estradiol valerate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB13956",
+    "Name": "Estradiol valerate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB13956",
+    "Name": "Estradiol valerate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P12104",
+    "UniProt Name": "Fatty acid-binding protein, intestinal"
+  },
+  {
+    "DrugBank ID": "DB13959",
+    "Name": "Medium-chain triglycerides",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14001",
+    "Name": "alpha-Tocopherol succinate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P49638",
+    "UniProt Name": "Alpha-tocopherol transfer protein"
+  },
+  {
+    "DrugBank ID": "DB14002",
+    "Name": "D-alpha-Tocopherol acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P49638",
+    "UniProt Name": "Alpha-tocopherol transfer protein"
+  },
+  {
+    "DrugBank ID": "DB14003",
+    "Name": "alpha-Tocopherol acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P98155",
+    "UniProt Name": "Very low-density lipoprotein receptor"
+  },
+  {
+    "DrugBank ID": "DB14003",
+    "Name": "alpha-Tocopherol acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P01130",
+    "UniProt Name": "Low-density lipoprotein receptor"
+  },
+  {
+    "DrugBank ID": "DB14007",
+    "Name": "Pentetic acid",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P01009",
+    "UniProt Name": "Alpha-1-antitrypsin"
+  },
+  {
+    "DrugBank ID": "DB14126",
+    "Name": "Tenofovir",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14185",
+    "Name": "Aripiprazole lauroxil",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14481",
+    "Name": "Calcium phosphate dihydrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05937",
+    "UniProt Name": "Calbindin"
+  },
+  {
+    "DrugBank ID": "DB14481",
+    "Name": "Calcium phosphate dihydrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P29377",
+    "UniProt Name": "Protein S100-G"
+  },
+  {
+    "DrugBank ID": "DB14481",
+    "Name": "Calcium phosphate dihydrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14513",
+    "Name": "Magnesium",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14517",
+    "Name": "Aluminium phosphate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14518",
+    "Name": "Aluminum acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14520",
+    "Name": "Tetraferric tricitrate decahydrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02787",
+    "UniProt Name": "Serotransferrin"
+  },
+  {
+    "DrugBank ID": "DB14520",
+    "Name": "Tetraferric tricitrate decahydrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P05106",
+    "UniProt Name": "Integrin beta-3"
+  },
+  {
+    "DrugBank ID": "DB14520",
+    "Name": "Tetraferric tricitrate decahydrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P27797",
+    "UniProt Name": "Calreticulin"
+  },
+  {
+    "DrugBank ID": "DB14526",
+    "Name": "Chromic citrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02787",
+    "UniProt Name": "Serotransferrin"
+  },
+  {
+    "DrugBank ID": "DB14527",
+    "Name": "Chromic nitrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02787",
+    "UniProt Name": "Serotransferrin"
+  },
+  {
+    "DrugBank ID": "DB14528",
+    "Name": "Chromium gluconate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02787",
+    "UniProt Name": "Serotransferrin"
+  },
+  {
+    "DrugBank ID": "DB14529",
+    "Name": "Chromium nicotinate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02787",
+    "UniProt Name": "Serotransferrin"
+  },
+  {
+    "DrugBank ID": "DB14530",
+    "Name": "Chromous sulfate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02787",
+    "UniProt Name": "Serotransferrin"
+  },
+  {
+    "DrugBank ID": "DB14533",
+    "Name": "Zinc chloride",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14538",
+    "Name": "Hydrocortisone aceponate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14538",
+    "Name": "Hydrocortisone aceponate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14539",
+    "Name": "Hydrocortisone acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14539",
+    "Name": "Hydrocortisone acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14540",
+    "Name": "Hydrocortisone butyrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14540",
+    "Name": "Hydrocortisone butyrate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14541",
+    "Name": "Hydrocortisone cypionate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14541",
+    "Name": "Hydrocortisone cypionate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14542",
+    "Name": "Hydrocortisone phosphate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14542",
+    "Name": "Hydrocortisone phosphate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14543",
+    "Name": "Hydrocortisone probutate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14543",
+    "Name": "Hydrocortisone probutate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14544",
+    "Name": "Hydrocortisone valerate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14544",
+    "Name": "Hydrocortisone valerate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14548",
+    "Name": "Zinc sulfate, unspecified form",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14582",
+    "Name": "Patisiran",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14582",
+    "Name": "Patisiran",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB14582",
+    "Name": "Patisiran",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB14631",
+    "Name": "Prednisolone phosphate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14631",
+    "Name": "Prednisolone phosphate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14649",
+    "Name": "Dexamethasone acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14669",
+    "Name": "Betamethasone phosphate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB14669",
+    "Name": "Betamethasone phosphate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14840",
+    "Name": "Ripretinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14840",
+    "Name": "Ripretinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB14840",
+    "Name": "Ripretinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P19652",
+    "UniProt Name": "Alpha-1-acid glycoprotein 2"
+  },
+  {
+    "DrugBank ID": "DB14879",
+    "Name": "Cefiderocol",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14973",
+    "Name": "Abrocitinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB14999",
+    "Name": "Human interferon beta",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB15093",
+    "Name": "Somapacitan",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB15133",
+    "Name": "Tepotinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB15133",
+    "Name": "Tepotinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB15149",
+    "Name": "Futibatinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB15149",
+    "Name": "Futibatinib",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB15171",
+    "Name": "Tirzepatide",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB15248",
+    "Name": "Bulevirtide",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB15305",
+    "Name": "Risdiplam",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB15444",
+    "Name": "Elexacaftor",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB15456",
+    "Name": "Vericiguat",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB15534",
+    "Name": "Colchiceine",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB15566",
+    "Name": "Prednisolone acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P08185",
+    "UniProt Name": "Corticosteroid-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB15566",
+    "Name": "Prednisolone acetate",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB15575",
+    "Name": "Padeliporfin",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB15690",
+    "Name": "Fluoroestradiol F-18",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P04278",
+    "UniProt Name": "Sex hormone-binding globulin"
+  },
+  {
+    "DrugBank ID": "DB15690",
+    "Name": "Fluoroestradiol F-18",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB15935",
+    "Name": "Lumasiran",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB16165",
+    "Name": "Finerenone",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB16200",
+    "Name": "Iptacopan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB16200",
+    "Name": "Iptacopan",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB16699",
+    "Name": "Vutrisiran",
+    "Type": "BiotechDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB16703",
+    "Name": "Belumosudil",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  },
+  {
+    "DrugBank ID": "DB16703",
+    "Name": "Belumosudil",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02763",
+    "UniProt Name": "Alpha-1-acid glycoprotein 1"
+  },
+  {
+    "DrugBank ID": "DB17083",
+    "Name": "Linzagolix",
+    "Type": "SmallMoleculeDrug",
+    "UniProt ID": "P02768",
+    "UniProt Name": "Serum albumin"
+  }
+]

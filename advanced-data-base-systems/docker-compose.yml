@@ -1,0 +1,30 @@
+version: "3"
+
+services:
+
+  jupyter:
+    image: jupyter/base-notebook:latest
+    container_name: lecture_jupyter
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      JUPYTER_TOKEN: "token"
+    ports:
+      - "8888:8888"
+    restart: always
+    volumes:
+      - ./work:/home/jovyan/work
+      - ~/my-data:/home/jovyan/work/my-data
+      - ~/my-data:/data/my-data
+    depends_on:
+      - crate
+
+  crate:
+    image: crate:latest
+    container_name: cratedb_container
+    ports:
+      - "4200:4200"
+    environment:
+      - CRATE_HEAP_SIZE=1g
+    volumes:
+      - ./my_datasets:/docker_datasets
+
